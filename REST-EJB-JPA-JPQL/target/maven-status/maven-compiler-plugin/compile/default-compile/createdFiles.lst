@@ -1,0 +1,9 @@
+id\co\test\rest\entity\Department.class
+id\co\test\rest\entity\Employee.class
+id\co\test\rest\bean\EmployeeBean.class
+id\co\test\rest\service\DepartmentService.class
+id\co\test\rest\bean\DepartmentBean.class
+id\co\test\rest\entity\Employee_.class
+id\co\test\rest\service\EmployeeService.class
+id\co\test\rest\config\Config.class
+id\co\test\rest\entity\Department_.class
