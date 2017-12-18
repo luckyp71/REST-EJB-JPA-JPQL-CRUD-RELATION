@@ -18,8 +18,7 @@ Employee:
 4. Update employee (HTTP Method-> PUT): http://localhost:8080/REST-EJB-JPA-JPQL-1.0-SNAPSHOT/rest/employee/updateEmployee?id=?&name=?&age=?&dept_id=?
 5. Delete employee (HTTP Method-> DELETE): http://localhost:8080/REST-EJB-JPA-JPQL-1.0-SNAPSHOT/rest/employee/deleteEmployeeById?id=?
 
-Requirements:
-
+Prerequisites:
 1. Netbeans 8.1
 2. Maven
 3. Java EE
